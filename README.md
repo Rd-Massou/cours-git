@@ -15,6 +15,4 @@ By the end of this course, you will be able to:
 * Use GitHub (or other Git hosting platforms)
 * Apply Git best practices in real-world projects
 
-# cours-git
-# my modif
 
